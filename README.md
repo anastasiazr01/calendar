@@ -82,4 +82,4 @@ These files follow the format expected by the application.
 
 ## Background
 
-This project was developed as part of a university programming assignment and has since been uploaded to GitHub as part of my project portfolio.
+This project was originally developed in 2023 as part of a university programming assignment. It was later uploaded to GitHub as part of my project portfolio.
